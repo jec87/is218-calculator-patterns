@@ -110,7 +110,7 @@ Local test results:
 GitHub Actions automatically runs the tests on pushes and pull requests.
 
 Successful GitHub Actions run:
-ADD SUCCESSFUL ACTIONS URL HERE
+https://github.com/jec87/is218-calculator-patterns/actions/runs/38264037111
 
 ## Coverage Exclusions
 
